@@ -1,0 +1,36 @@
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: D:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:04:05 PM  Jun 11, 2026
+Running as user : LAPTOP-0HV8CISQ\chen
+Temp directory: D:\Users\chen\AppData\Local\Temp
+Project directory: D:\ansys electronic\Ansoft
+The project 'Project3' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 54978. 
+        [info] The project 'Project3' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+Stopping Batch Run: 3:08:53 PM  Jun 11, 2026
+ 
+Ansys Electronics Desktop Version 2024.2.0, Build: 2024-05-23 02:23:50
+Location: D:\Program Files\AnsysEM\v242\Win64\ansysedt.exe
+Non Graphical Mode: No Project??
+Starting Batch Run: 3:15:52 PM  Jun 11, 2026
+Running as user : LAPTOP-0HV8CISQ\chen
+Temp directory: D:\Users\chen\AppData\Local\Temp
+Project directory: D:\ansys electronic\Ansoft
+The project 'Project3' has been edited and/or solved. Do you want to save the changes?
+-- Message Window --
+      *Global - Messages
+        [info] GRPC server running on port: 60463. 
+        [info] The project 'Project3' has been edited and/or solved. Do you want to save the changes?
+      Project3 (D:/ansys electronic/Ansoft/)
+        Maxwell 2D_NI5 (Magnetostatic, XY)
+          [error] Script macro error: Excitation 'Tx_Current_Left': Assignment must contain exactly one selection or be connected edges. (03:19:07 PM  Jun 11, 2026)
+        Maxwell 3D_TWH (Magnetostatic)
+          [error] No excitation or value boundary or permanent magnet or magnetization link has been defined (03:28:34 PM  Jun 11, 2026)
+          [error] Solution Setup: No solution setups have been created. (03:28:34 PM  Jun 11, 2026)
+-- Message Window --
+Stopping Batch Run: 4:56:54 PM  Jun 11, 2026
