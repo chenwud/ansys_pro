@@ -4,3 +4,6 @@ import time
 
 print(time.mktime)
 print(1)
+print(2)
+print(3)
+print(4)
